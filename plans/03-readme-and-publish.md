@@ -27,7 +27,7 @@
 4. **Create GitHub repo**:
    ```bash
    cd ~/tools/nanobanana-cli
-   gh repo create christiangenco/nanobanana-cli --public --source=. --push
+   gh repo create gxbvc/nanobanana-cli --public --source=. --push
    ```
 
 5. **Final end-to-end test**:
@@ -50,5 +50,5 @@
 - `nanobanana-cli --help` shows the generate command with all options
 - `cat ~/tools/AGENTS.md` includes nanobanana-cli in the table
 - `git -C ~/tools/nanobanana-cli log --oneline` shows all commits
-- `gh repo view christiangenco/nanobanana-cli` shows the public repo
+- `gh repo view gxbvc/nanobanana-cli` shows the public repo
 - End-to-end generation produces a valid PNG image

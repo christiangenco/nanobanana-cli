@@ -10,7 +10,7 @@ CLI for generating and editing images using Google's Gemini models (Nano Banana)
 ## Setup
 
 ```bash
-git clone https://github.com/christiangenco/nanobanana-cli.git
+git clone https://github.com/gxbvc/nanobanana-cli.git
 cd nanobanana-cli
 npm install
 npm run build
